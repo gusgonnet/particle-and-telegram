@@ -6,7 +6,7 @@
 #line 1 "/home/ceajog/0trabajo/gust/particle/telegram/src/telegram.ino"
 /*
  * Project telegram
- * Description: send a message via a Particle webhook to Telegram via its API
+ * Description: A Particle device sends you a Telegram message
  * Author: Gustavo Gonnet gusgonnet@gmail.com
  * Date: Veganuary 2021
  */
